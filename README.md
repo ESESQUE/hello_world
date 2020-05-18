@@ -1,2 +1,4 @@
 # hello_world
-This is my first repository 
+Hi all,
+
+I am Saeed, an engineering student looking to develop my coding skills.
